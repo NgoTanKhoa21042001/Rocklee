@@ -2,3 +2,4 @@
 Thang tu
 má cay ghê á bây 
 Cais dm 
+box sizing: border boxx ok
